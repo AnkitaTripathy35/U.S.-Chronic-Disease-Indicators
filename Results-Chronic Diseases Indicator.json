@@ -1,0 +1,62 @@
+[
+  {
+    "Location_ID": 1,
+    "Location_Desc": "AL",
+    "Location_Abbr": "Alabama",
+    "GeoLocation1": "POINT (-86.63186076199969 32.840571122000483)"
+  },
+  {
+    "Location_ID": 8,
+    "Location_Desc": "CO",
+    "Location_Abbr": "Colorado",
+    "GeoLocation1": "POINT (-106.13361092099967 38.843840757000464)"
+  },
+  {
+    "Location_ID": 11,
+    "Location_Desc": "DC",
+    "Location_Abbr": "District of Columbia",
+    "GeoLocation1": "POINT (-77.036871 38.907192)"
+  },
+  {
+    "Location_ID": 12,
+    "Location_Desc": "FL",
+    "Location_Abbr": "Florida",
+    "GeoLocation1": "POINT (-81.928960538999661 28.932040377000476)"
+  },
+  {
+    "Location_ID": 17,
+    "Location_Desc": "IL",
+    "Location_Abbr": "Illinois",
+    "GeoLocation1": "POINT (-88.997710177999693 40.485010283000463)"
+  },
+  {
+    "Location_ID": 31,
+    "Location_Desc": "NE",
+    "Location_Abbr": "Nebraska",
+    "GeoLocation1": "POINT (-120.15503132599969 44.567449424000472)"
+  },
+  {
+    "Location_ID": 32,
+    "Location_Desc": "NV",
+    "Location_Abbr": "Nevada",
+    "GeoLocation1": "POINT (-117.07184056399967 39.493240390000494)"
+  },
+  {
+    "Location_ID": 36,
+    "Location_Desc": "NY",
+    "Location_Abbr": "New York",
+    "GeoLocation1": "POINT (-75.543970426999635 42.827001032000453)"
+  },
+  {
+    "Location_ID": 41,
+    "Location_Desc": "OR",
+    "Location_Abbr": "Oregon",
+    "GeoLocation1": "POINT (-120.15503132599969 44.567449424000472)"
+  },
+  {
+    "Location_ID": 47,
+    "Location_Desc": "TN",
+    "Location_Abbr": "Tennessee",
+    "GeoLocation1": "POINT (-85.774490913999671 35.680940580000481)"
+  }
+]

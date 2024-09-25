@@ -1,0 +1,92 @@
+[
+  {
+    "ChronicdiseaseID": 1,
+    "Year_of_Start": 2020,
+    "Year_of_End": 2020,
+    "Location_ID": 8,
+    "DataSource": "NVSS",
+    "Topic": "Alcohol",
+    "Question": "Chronic liver disease mortality"
+  },
+  {
+    "ChronicdiseaseID": 2,
+    "Year_of_Start": 2014,
+    "Year_of_End": 2018,
+    "Location_ID": 17,
+    "DataSource": "Statewide central",
+    "Topic": "cancer",
+    "Question": "Invasive cancer of the prostate, incidence"
+  },
+  {
+    "ChronicdiseaseID": 3,
+    "Year_of_Start": 2019,
+    "Year_of_End": 2019,
+    "Location_ID": 12,
+    "DataSource": "STATE",
+    "Topic": "Tobacco",
+    "Question": "Sale of cigarette packs"
+  },
+  {
+    "ChronicdiseaseID": 4,
+    "Year_of_Start": 2010,
+    "Year_of_End": 2010,
+    "Location_ID": 41,
+    "DataSource": "NVSS",
+    "Topic": "Cardiovascular Disease",
+    "Question": "Mortality from heart failure"
+  },
+  {
+    "ChronicdiseaseID": 5,
+    "Year_of_Start": 2013,
+    "Year_of_End": 2013,
+    "Location_ID": 36,
+    "DataSource": "BRFSS",
+    "Topic": "Diabetes",
+    "Question": "Foot examination among adults aged >= 18 years with diagnosed diabetes"
+  },
+  {
+    "ChronicdiseaseID": 6,
+    "Year_of_Start": 2018,
+    "Year_of_End": 2018,
+    "Location_ID": 32,
+    "DataSource": "BRFSS",
+    "Topic": "Mental Health",
+    "Question": "At least 14 recent mentally unhealthy days among women aged 18-44 years"
+  },
+  {
+    "ChronicdiseaseID": 7,
+    "Year_of_Start": 2014,
+    "Year_of_End": 2014,
+    "Location_ID": 47,
+    "DataSource": "PRAMS",
+    "Topic": "Reproductive Health",
+    "Question": "Postpartum checkup"
+  },
+  {
+    "ChronicdiseaseID": 8,
+    "Year_of_Start": 2015,
+    "Year_of_End": 2015,
+    "Location_ID": 1,
+    "DataSource": "PRAMS",
+    "Topic": "Oral Health",
+    "Question": "Preventive dental care before pregnancy"
+  },
+  {
+    "ChronicdiseaseID": 9,
+    "Year_of_Start": 2020,
+    "Year_of_End": 2020,
+    "Location_ID": 11,
+    "DataSource": "NVSS",
+    "Topic": "Chronic Obstructive Pulmonary Disease",
+    "Question": "Mortality with chronic obstructive pulmonary disease as underlying cause among adults aged >= 45 years"
+  },
+  {
+    "ChronicdiseaseID": 10,
+    "Year_of_Start": 2012,
+    "Year_of_End": 2012,
+    "Location_ID": 31,
+    "DataSource": "BRFSS",
+    "Topic": "Immunization",
+    "Question": "Influenza vaccination among noninstitutionalized adults aged >= 18 years"
+  }
+]
